@@ -18,7 +18,6 @@ Extracted Date Info: Pulled out the month from the date column for monthly compa
 Once the data was clean, I analyzed it to find meaningful insights that can guide decision-making. Here’s what I explored:
 
 Monthly Sales and Orders:
-
 Compared sales and orders by month to identify which months had the highest sales.
 
 Man vs Woman:
