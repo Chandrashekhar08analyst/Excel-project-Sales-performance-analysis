@@ -20,61 +20,51 @@ Once the data was clean, I analyzed it to find meaningful insights that can guid
 #### Monthly Sales and Orders:
 Compared sales and orders by month to identify which months had the highest sales.
 
-Man vs Woman:
-
+#### Man vs Woman:
 Compared sales between men and women to see who contributes more to total sales.
 
-Order Status:
-
+#### Order Status:
 Analyzed the status of orders (delivered, canceled, etc.) to understand trends in fulfillment.
 
-Top 5 States:
-
+#### Top 5 States:
 Found which states contribute the most to sales.
 
-Sales by Age Group & Gender:
-
+#### Sales by Age Group & Gender:
 Looked at the relationship between age groups and gender to see who buys the most.
 
-Sales by Category:
-
+#### Sales by Category:
 Analyzed product categories to see which ones are most popular among customers.
 
-Sales by Channel:
-
+#### Sales by Channel:
 Checked sales performance across different shopping platforms (e.g., Amazon, Flipkart, Myntra).
 
 # Key Insights
 After analyzing the data, here are some important findings:
 
-Women Buy More Than Men:
-
+#### Women Buy More Than Men:
 Women contribute about 65% of total sales, showing that they are more likely to shop compared to men.
 
-Top 3 States:
-
+#### Top 3 States:
 Maharashtra, Karnataka, and Uttar Pradesh are the states with the highest sales.
 
-Most Active Age Group:
-
+#### Most Active Age Group:
 The adult age group (30-49 years old) is responsible for 50% of the total sales.
 
-Best Sales Channels:
-
+#### Best Sales Channels:
 Online platforms like Amazon, Flipkart, and Myntra are the top three contributors to sales.
 # Conclusion
 Based on these insights, here’s how businesses can improve sales in malls:
 
-Focus on Women:
+#### Focus on Women:
 Target female customers since they are more likely to make purchases.
 
-Age Group Focus:
+#### Age Group Focus:
 Prioritize customers aged 30-49 as they are the biggest contributors to sales.
 
-Location Targeting:
+#### Location Targeting:
 Concentrate marketing efforts in Maharashtra, Karnataka, and Uttar Pradesh, as these states have the highest number of customers.
 
-Online Integration:
+#### Online Integration:
 Partner with popular online platforms like Amazon, Flipkart, and Myntra to offer discounts, coupons, and special promotions to boost sales.
 
 # Final Recommendation
