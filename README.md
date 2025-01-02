@@ -74,7 +74,7 @@ To increase mall sales, businesses should target women aged 30-49 living in Maha
 ## Sales Performance Dashboard
 To better understand the data insights, here's a visual representation of the sales performance:
 
-![Sales Performance Dashboard](YOUR_IMAGE_URL_HERE)
+![Sales Performance Dashboard]("C:\Users\CHANDRASHEKHAR\OneDrive\Pictures\Screenshots\Screenshot 2025-01-02 135447.png")
 
 The dashboard highlights key metrics such as sales by gender, age group, state, and sales performance across different channels. It provides an interactive and visually appealing way to explore the data.
 
