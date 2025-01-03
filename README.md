@@ -1,6 +1,6 @@
 # 📝 Sales Performance Report: Understanding Customers for Profit Growth
 
-# Project Overview
+# 🌟 Project Overview
 This project aims to help businesses understand their customers better and plan strategies for increasing sales in the next year. By analyzing past sales data, we can make informed decisions to target the right customers at the right time and through the best sales channels.
 
 # Objective
@@ -83,5 +83,5 @@ Concentrate marketing efforts in Maharashtra, Karnataka, and Uttar Pradesh, as t
 #### Online Integration:
 Partner with popular online platforms like Amazon, Flipkart, and Myntra to offer discounts, coupons, and special promotions to boost sales.
 
-# Final Recommendation
+# 🟢 Final Recommendation
 To increase mall sales, businesses should target women aged 30-49 living in Maharashtra, Karnataka, and Uttar Pradesh by using ads and offering special coupons available on Amazon, Flipkart, and Myntra.
