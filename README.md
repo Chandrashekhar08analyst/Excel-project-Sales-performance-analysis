@@ -17,25 +17,25 @@ Extracted Date Info: Pulled out the month from the date column for monthly compa
 # Data Analysis
 Once the data was clean, I analyzed it to find meaningful insights that can guide decision-making. Here’s what I explored:
 
-#### Monthly Sales and Orders:
+#### 🔸Monthly Sales and Orders:
 Compared sales and orders by month to identify which months had the highest sales.
 
-#### Man vs Woman:
+#### 🔹Man vs Woman:
 Compared sales between men and women to see who contributes more to total sales.
 
-#### Order Status:
+#### 🔸Order Status:
 Analyzed the status of orders (delivered, canceled, etc.) to understand trends in fulfillment.
 
-#### Top 5 States:
+#### 🔹Top 5 States:
 Found which states contribute the most to sales.
 
-#### Sales by Age Group & Gender:
+#### 🔸Sales by Age Group & Gender:
 Looked at the relationship between age groups and gender to see who buys the most.
 
-#### Sales by Category:
+#### 🔹Sales by Category:
 Analyzed product categories to see which ones are most popular among customers.
 
-#### Sales by Channel:
+#### 🔸Sales by Channel:
 Checked sales performance across different shopping platforms (e.g., Amazon, Flipkart, Myntra).
 
 # 🦚 DASHBOARD
