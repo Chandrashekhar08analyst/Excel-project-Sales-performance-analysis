@@ -38,7 +38,7 @@ Analyzed product categories to see which ones are most popular among customers.
 #### Sales by Channel:
 Checked sales performance across different shopping platforms (e.g., Amazon, Flipkart, Myntra).
 
-### DASHBOARD
+#### 🦚 DASHBOARD
 
 ![Screenshot 2025-01-02 135447](https://github.com/user-attachments/assets/43bbe638-0a9a-4922-b1b8-1a7e525d87c9)
 
