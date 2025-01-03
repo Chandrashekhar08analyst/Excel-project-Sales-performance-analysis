@@ -46,6 +46,9 @@ Checked sales performance across different shopping platforms (e.g., Amazon, Fli
 After analyzing the data, here are some important findings:
 
 #### Women Buy More Than Men:
+
+![Screenshot 2025-01-03 113319](https://github.com/user-attachments/assets/f8b4bd9a-1698-4736-85f6-646cb2fe8afc)
+
 Women contribute about 65% of total sales, showing that they are more likely to shop compared to men.
 
 #### Top 3 States:
