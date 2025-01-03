@@ -1,4 +1,4 @@
-# 📊 Sales Performance Report: Understanding Customers for Profit Growth
+# 📝 Sales Performance Report: Understanding Customers for Profit Growth
 
 # Project Overview
 This project aims to help businesses understand their customers better and plan strategies for increasing sales in the next year. By analyzing past sales data, we can make informed decisions to target the right customers at the right time and through the best sales channels.
@@ -42,33 +42,33 @@ Checked sales performance across different shopping platforms (e.g., Amazon, Fli
 
 ![Screenshot 2025-01-02 135447](https://github.com/user-attachments/assets/43bbe638-0a9a-4922-b1b8-1a7e525d87c9)
 
-# Key Insights
+# 🍂 Key Insights
 After analyzing the data, here are some important findings:
 
-#### Women Buy More Than Men:
+#### 🔸 Women Buy More Than Men:
 
 ![Screenshot 2025-01-03 113319](https://github.com/user-attachments/assets/f8b4bd9a-1698-4736-85f6-646cb2fe8afc)
 
 Women contribute about 65% of total sales, showing that they are more likely to shop compared to men.
 
-#### Top 3 States:
+#### 🔹Top 3 States:
 
 ![Screenshot 2025-01-03 113537](https://github.com/user-attachments/assets/6b00dc6d-1ab2-491c-83ce-95ee33b6a6d3)
 
 Maharashtra, Karnataka, and Uttar Pradesh are the states with the highest sales.
 
-#### Most Active Age Group:
+#### 🔸Most Active Age Group:
 
 ![Screenshot 2025-01-03 113804](https://github.com/user-attachments/assets/a443dd82-2d72-4adb-886b-a2683b63ae0d)
 
 The adult age group (30-49 years old) is responsible for 50% of the total sales.
 
-#### Best Sales Channels:
+#### 🔹Best Sales Channels:
 
 ![Screenshot 2025-01-03 113902](https://github.com/user-attachments/assets/00c30f87-c756-45d5-8675-216b6191ba1f)
 
 Online platforms like Amazon, Flipkart, and Myntra are the top three contributors to sales.
-# Conclusion
+# 🍂 Conclusion
 Based on these insights, here’s how businesses can improve sales in malls:
 
 #### Focus on Women:
